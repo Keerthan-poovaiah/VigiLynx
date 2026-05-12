@@ -1,5 +1,10 @@
 # 🛡️ VigiLynx
 
+## Note
+
+This project was originally developed as a collaborative group project.  
+This repository is my maintained fork where I continue experimenting, improving features, and showcasing my individual contributions.
+
 > ⚠️ **Group Project** — collaboratively built to enhance cybersecurity awareness and protection.
 
 ---
@@ -105,12 +110,6 @@ npm start
 
 🌐 Real-time cyber threat map
 
-## 📬 Contact
-For any questions or issues, feel free to reach out:
-Email: harshabhat666@gmail.com
-
-## 🤝 Contributors
-This project is a collaborative group effort developed by a team of cybersecurity enthusiasts and developers as part of an academic initiative.
 
 
 
